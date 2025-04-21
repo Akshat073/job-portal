@@ -58,9 +58,6 @@ This project was developed as part of the Web Development curriculum to:
 
 Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository and submit a pull request.
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
