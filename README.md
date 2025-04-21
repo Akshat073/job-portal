@@ -65,8 +65,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 *Developed with dedication during my first year of web development studies.* 🌱
-```
 
----
-
-Feel free to customize this `README.md` further to align with any additional features or personal touches you've added to the project. If you need assistance with deploying the project online or enhancing its functionality, don't hesitate to ask! 
